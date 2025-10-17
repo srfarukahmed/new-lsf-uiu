@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\Lab-SWE\\local-service-finder-backend-main\\logs\\.1c789d62f3eeaccd640f8af6053431715ef2bd67-audit.json",
+    "files": [
+        {
+            "date": 1760468738009,
+            "name": "E:\\Lab-SWE\\local-service-finder-backend-main\\logs\\combined-2025-10-15.log",
+            "hash": "891a14585a9546b7fa4c9f99180d0f2bca8e11cd6b780df6d2f2c4fe194b1eae"
+        },
+        {
+            "date": 1760697689639,
+            "name": "E:\\Lab-SWE\\local-service-finder-backend-main\\logs\\combined-2025-10-17.log",
+            "hash": "feea12d9eedafc8fb08be06159adf62434b0e23a1e3309144d4947f9906b6a98"
+        }
+    ],
+    "hashType": "sha256"
+}
